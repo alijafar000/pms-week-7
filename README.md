@@ -489,7 +489,7 @@ JWT=your_secret_key
 Clone Repository
 
 ```bash
-git clone https://github.com/alijafar000/portfolio-management-backend-week-6.git
+git clone https://github.com/alijafar000/pms-week-7.git
 ```
 
 Install Dependencies

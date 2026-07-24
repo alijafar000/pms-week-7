@@ -5,10 +5,10 @@ A production-ready **Portfolio Management Backend API** built with **Node.js, Ex
 ## 🚀 Live Demo
 
 **Live API**
-https://portfolio-management-backend-a07k.onrender.com
+https://pms-week-7.onrender.com
 
 **Swagger Documentation**
-https://portfolio-management-backend-a07k.onrender.com/api-docs
+https://pms-week-7.onrender.com/api-docs
 
 ---
 
@@ -282,7 +282,7 @@ http://localhost:2000/api-docs
 
 Live
 
-https://portfolio-management-backend-a07k.onrender.com/api-docs
+https://pms-week-7.onrender.com
 
 
 ## Deployment
@@ -489,7 +489,7 @@ JWT=your_secret_key
 Clone Repository
 
 ```bash
-git clone https://github.com/alijafar000/portfolio-management-backend.git
+git clone https://github.com/alijafar000/pms-week-7.git
 ```
 
 Install Dependencies
@@ -561,6 +561,15 @@ npm run dev
 * Deployment Ready Configuration
 
 ---
+
+### ✅ Week 6
+
+* API Optimization
+* Security Enhancement
+* Backup & Recovery Strategy
+* API Monitoring
+* Code Documentation
+* Final Testing
 
 ### Week 7 Enhancements
 
